@@ -1,12 +1,11 @@
 body{
-    font-family: 'Redressed', cursive;
-    font-family: 'Yeon Sung', cursive;
-    background-color: rgb(193, 214, 233);
+    font-family: serif;
+    background-color: rgb(218, 209, 206);
     margin: 0;
 }
 .welcome-block{
    
-    background-color:rgb(0, 41, 32);
+    background-color:rgb(0, 1, 41);
     color: white;
     font-size: 30px;
     line-height: 4px;
@@ -18,7 +17,7 @@ body{
     background-color:rgb(66, 12, 12);
     text-align: center;
     padding: 7px;
-    margin-top: 1px;
+   
 }
 .link-property{
     font-size: 20px;
